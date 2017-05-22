@@ -7,3 +7,5 @@ Vous devez créer un repository Git simple contenant :
     Au moins 4 commits distincts montrant l’ajout puis la modification de certains fichiers.
 
 Prêtez attention à la qualité de vos messages de commit et essayez d’être précis. Par exemple, évitez des commentaires comme “commit 1”, “commit 2” etc. qui n'expliquent pas les modifications que vous avez effectuées.
+Modification du README.md en README.txt
+cration des deux autre fichier et commiter.
